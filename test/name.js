@@ -7,10 +7,10 @@ var repo = require('../');
 
 describe('.name', function() {
   it('should get the project name from the cwd', function() {
-    assert.equal(repo.name(), 'repo-utils');
-    assert.equal(repo.name('.'), 'repo-utils');
-    assert.equal(repo.name(''), 'repo-utils');
-    assert.equal(repo.name(process.cwd()), 'repo-utils');
+    assert.equal(repo.name(), 'repo-utils-js');
+    assert.equal(repo.name('.'), 'repo-utils-js');
+    assert.equal(repo.name(''), 'repo-utils-js');
+    assert.equal(repo.name(process.cwd()), 'repo-utils-js');
   });
 
   it('should get the project name from a github url', function() {
