@@ -1,7 +1,7 @@
 {
   "name": "repo-utils-js",
   "description": "Utils for normalizing and formatting repo data.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/OronNadiv/repo-utils",
   "author": "Oron Nadiv (https://github.com/OronNadiv)",
   "contributors": [
