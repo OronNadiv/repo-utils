@@ -1,5 +1,7 @@
 # repo-utils [![NPM version](https://img.shields.io/npm/v/repo-utils-js.svg?style=flat)](https://www.npmjs.com/package/repo-utils-js) [![NPM monthly downloads](https://img.shields.io/npm/dm/repo-utils-js.svg?style=flat)](https://npmjs.org/package/repo-utils-js)  [![NPM total downloads](https://img.shields.io/npm/dt/repo-utils-js.svg?style=flat)](https://npmjs.org/package/repo-utils-js) [![Linux Build Status](https://img.shields.io/travis/oronnadiv/repo-utils.svg?style=flat&label=Travis)](https://travis-ci.org/oronnadiv/repo-utils)
 
+#### This is a fork of the [package](https://github.com/jonschlinkert/repo-utils) created by [Jon Schlinkert](https://github.com/jonschlinkert). The original package has not been updated for several years. Therefore, creating this fork was the only way to address them. Read this [issue](https://github.com/jonschlinkert/repo-utils/issues/3) for more context).  
+
 > Utils for normalizing and formatting repo data.
 
 You might also be interested in [parse-git-config](https://github.com/jonschlinkert/parse-git-config).
@@ -18,13 +20,13 @@ You might also be interested in [parse-git-config](https://github.com/jonschlink
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save repo-utils
+$ npm install --save repo-utils-js
 ```
 
 ## Usage
 
 ```js
-var repo = require('repo-utils');
+var repo = require('repo-utils-js');
 ```
 
 ## API
