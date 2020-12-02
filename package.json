@@ -1,9 +1,9 @@
 {
   "name": "repo-utils-js",
   "description": "Utils for normalizing and formatting repo data.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/OronNadiv/repo-utils",
-  "author": "Oron Nadiv (https://github.com/OronNadiv)",
+  "author": "Oron Nadiv <oron@nadiv.us> (https://github.com/OronNadiv)",
   "contributors": [
     "Charlike Mike Reagent (http://www.tunnckocore.tk)",
     "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)"
